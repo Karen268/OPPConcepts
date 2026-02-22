@@ -7,4 +7,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\OPPConcepts.Backend\OPPConcepts.Backend.csproj" />
+  </ItemGroup>
+
 </Project>
